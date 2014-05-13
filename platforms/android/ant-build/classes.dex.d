@@ -1,4 +1,11 @@
 /Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes.dex : \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/hello_world/BuildConfig.class \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/hello_world/HelloWorld.class \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/hello_world/R$attr.class \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/hello_world/R$drawable.class \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/hello_world/R$string.class \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/hello_world/R$xml.class \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/hello_world/R.class \
 /Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/helloworld/BuildConfig.class \
 /Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/helloworld/HelloWorld.class \
 /Users/richardwinder/Documents/my-app/platforms/android/ant-build/classes/com/phonegap/helloworld/R$attr.class \

@@ -1,4 +1,4 @@
-/Users/richardwinder/Documents/my-app/platforms/android/ant-gen/com/phonegap/helloworld/R.java \
+/Users/richardwinder/Documents/my-app/platforms/android/ant-gen/com/phonegap/hello_world/R.java \
  : /Users/richardwinder/Documents/my-app/platforms/android/res/drawable/icon.png \
 /Users/richardwinder/Documents/my-app/platforms/android/res/drawable-hdpi/icon.png \
 /Users/richardwinder/Documents/my-app/platforms/android/res/drawable-ldpi/icon.png \
