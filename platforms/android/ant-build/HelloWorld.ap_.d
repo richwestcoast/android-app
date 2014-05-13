@@ -26,8 +26,11 @@
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/spec \
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/spec.html \
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/css/index.css \
+/Users/richardwinder/Documents/my-app/platforms/android/assets/www/img/ab.png \
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/img/logo.png \
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/js/index.js \
+/Users/richardwinder/Documents/my-app/platforms/android/assets/www/js/jquery.js \
+/Users/richardwinder/Documents/my-app/platforms/android/assets/www/js/phonegap.js \
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/res/icon \
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/res/screen \
 /Users/richardwinder/Documents/my-app/platforms/android/assets/www/res/icon/android \
