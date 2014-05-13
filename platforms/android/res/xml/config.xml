@@ -11,7 +11,7 @@
     <author email="shanabus@gmail.com" href="http://phonegap.com">
         Shane Sievers
     </author>
-    <preference name="phonegap-version" value="2.3.0" />
+    <preference name="phonegap-version" value="2.5.0" />
     <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
@@ -21,25 +21,22 @@
     <gap:splash gap:density="mdpi" gap:platform="android" src="res/screen/android/screen-mdpi-portrait.png" />
     <gap:splash gap:density="hdpi" gap:platform="android" src="res/screen/android/screen-hdpi-portrait.png" />
     <gap:splash gap:density="xhdpi" gap:platform="android" src="res/screen/android/screen-xhdpi-portrait.png" />
-    <gap:plugin name="Accelerometer" value="org.apache.cordova.AccelListener" />
-    <gap:plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
-    <gap:plugin name="Capture" value="org.apache.cordova.Capture" />
-    <gap:plugin name="Compass" value="org.apache.cordova.CompassListener" />
-    <gap:plugin name="Contacts" value="org.apache.cordova.ContactManager" />
-    <gap:plugin name="Device" value="org.apache.cordova.Device" />
-    <gap:plugin name="NetworkStatus" value="org.apache.cordova.NetworkManager" />
-    <gap:plugin name="Battery" value="org.apache.cordova.BatteryListener" />
-    <gap:plugin name="File" value="org.apache.cordova.FileUtils" />
-    <gap:plugin name="FileTransfer" value="org.apache.cordova.FileTransfer" />
-    <gap:plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
-    <gap:plugin name="Globalization" value="org.apache.cordova.Globalization" />
-    <gap:plugin name="Media" value="org.apache.cordova.AudioHandler" />
-    <gap:plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
-    <gap:plugin name="Notification" value="org.apache.cordova.Notification" />
-    <gap:plugin name="SplashScreen" value="org.apache.cordova.SplashScreen" />
-    <gap:plugin name="Storage" value="org.apache.cordova.Storage" />
-    <gap:plugin name="BarcodeScanner" />
-    <gap:plugin name="Analytics" />
-    <gap:plugin name="GenericPush" />
+    <plugin name="Accelerometer" value="org.apache.cordova.AccelListener" />
+    <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
+    <plugin name="Capture" value="org.apache.cordova.Capture" />
+    <plugin name="Compass" value="org.apache.cordova.CompassListener" />
+    <plugin name="Contacts" value="org.apache.cordova.ContactManager" />
+    <plugin name="Device" value="org.apache.cordova.Device" />
+    <plugin name="NetworkStatus" value="org.apache.cordova.NetworkManager" />
+    <plugin name="Battery" value="org.apache.cordova.BatteryListener" />
+    <plugin name="File" value="org.apache.cordova.FileUtils" />
+    <plugin name="FileTransfer" value="org.apache.cordova.FileTransfer" />
+    <plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
+    <plugin name="Globalization" value="org.apache.cordova.Globalization" />
+    <plugin name="Media" value="org.apache.cordova.AudioHandler" />
+    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
+    <plugin name="Notification" value="org.apache.cordova.Notification" />
+    <plugin name="SplashScreen" value="org.apache.cordova.SplashScreen" />
+    <plugin name="Storage" value="org.apache.cordova.Storage" />
     <access origin="*" />
 </widget>
