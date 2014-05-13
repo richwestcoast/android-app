@@ -9,13 +9,13 @@
         TESTING
     </description>
 
-    <author href="http://phonegap.com" email="shanabus@gmail.com">
-        Shane Sievers
+    <author href="http://phonegap.com" email="richard.winder@abcomm.co.uk">
+        Richard Winder
     </author>
 
     <!-- <feature name="http://api.phonegap.com/1.0/device" /> -->
 
-    <preference name="phonegap-version" value="2.5.0" />
+    <preference name="phonegap-version" value="2.7.0" />
     <preference name="orientation"      value="portrait" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
