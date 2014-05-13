@@ -4,14 +4,14 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
-    <name>PGB Test</name>
+    <name>ABCOMM - TESTING</name>
     <description>
-        Kitchen Sink of Phonegap Build APIs
+        TESTING
     </description>
-    <author email="shanabus@gmail.com" href="http://phonegap.com">
-        Shane Sievers
+    <author email="richard.winder@abcomm.co.uk" href="http://phonegap.com">
+        Richard Winder
     </author>
-    <preference name="phonegap-version" value="2.5.0" />
+    <preference name="phonegap-version" value="2.7.0" />
     <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
